@@ -1,0 +1,29 @@
+# NFTGallery
+
+## Overview
+
+NFTGallery is a web application that allows users to explore and view Non-Fungible Tokens (NFTs) from various blockchain platforms. This project aims to provide a visually appealing and user-friendly interface for discovering and interacting with digital art, collectibles, and other NFT-based assets.
+
+## Features
+
+- **Browse NFT Collections**: Explore curated collections of NFTs, categorized by artists, themes, and platforms.
+- **View NFT Details**: Click on individual NFTs to view detailed metadata, including description, creator information, and blockchain transaction details.
+- **Search and Filter**: Search for specific NFTs or filter by criteria such as price range, platform, and rarity.
+- **User Profiles**: Allow users to create profiles, save favorite NFTs, and track their collection.
+- **Integration with Blockchain**: Fetch and display real-time data using blockchain APIs to ensure transparency and authenticity of NFTs.
+- **Responsive Design**: Ensure the gallery is accessible and user-friendly across devices and screen sizes.
+
+## Getting Started
+
+### Prerequisites
+
+Ensure you have the following installed:
+- [Node.js](https://nodejs.org/) (version 14 or later)
+- [npm](https://www.npmjs.com/) (version 6 or later)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/NFTGallery.git
+   cd NFTGallery
